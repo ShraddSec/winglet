@@ -1,3 +1,8 @@
+## 🔗 Live Demo
+
+Play the game here:  
+https://shraddsec.github.io/winglet/
+
 # Winglet 🐦
 
 Winglet is a simple 2D browser game inspired by Flappy Bird, built as a learning project using HTML, CSS, and JavaScript.
